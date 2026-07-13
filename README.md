@@ -1,6 +1,6 @@
 # Hi, I'm Musa Mhlambi 👋
 
-IT Diploma student at Rosebank College | Aspiring Software Developer & Data Engineer | Java, Python, Figma, PostgreSQL
+IT Diploma student at Rosebank College | Aspiring Software Developer & Data Engineer | Java, Python, Figma, Python, SQL,
 
 ## 🚀 About Me
 - 📍 Based in Gauteng, South Africa
