@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Musa Mhlambi
 
-### 🎓 IT Diploma Student | 🛠️ Aspiring Data Engineer | 🇿🇦 South Africa
+### 🎓 IT Student | 🛠️ Aspiring Data Engineer | Gauteng 
 
 <p align="left">
   <a href="https://github.com/Musawenkosi-tech">
@@ -18,11 +18,11 @@
 
 ## 🚀 About Me
 
-I'm an **IT Diploma student at Rosebank College** building my career toward **Data Engineering and Data Platforms**.
+I'm an **IT Diploma student at Rosebank International** building my career toward **Data Engineering and Data Platforms**.
 
 I enjoy turning raw data into structured, useful information through **Python, SQL, data transformation, automation, and data pipelines**. My current focus is developing practical experience with modern data technologies while building projects that demonstrate how I approach real-world problems.
 
-* 🎓 Diploma in IT — Rosebank College
+* 🎓 Diploma in IT — Rosebank International
 * 📍 Gauteng, South Africa
 * 🗄️ Interested in **Data Engineering, ETL/ELT & Data Warehousing**
 * 🐍 Working with **Python, Pandas & PySpark**
@@ -60,15 +60,6 @@ I enjoy turning raw data into structured, useful information through **Python, S
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Musawenkosi-tech&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Musa's GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musawenkosi-tech&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Musa's Top Languages"/>
 </p>
 
 ---
